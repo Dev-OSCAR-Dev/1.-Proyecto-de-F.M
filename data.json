@@ -1,0 +1,79 @@
+[
+    {
+        "profile": "./assets/images/avatar-mark-webber.webp",
+        "username": "Mark Webber",
+        "typePost": "reacted to your recent post",
+        "titlePost": "My first tournament today!",
+        "club": "",
+        "imageClub":"",
+        "timePost": "1m ago",
+        "messagePost": "",
+        "read": false
+    },
+    {
+        "profile": "./assets/images/avatar-angela-gray.webp",
+        "username": "Angela Gray",
+        "typePost": "followed you",
+        "titlePost": "",
+        "club": "",
+        "imageClub":"",
+        "timePost": "5m ago",
+        "messagePost": "",
+        "read": false
+    },
+    {
+        "profile": "./assets/images/avatar-jacob-thompson.webp",
+        "username": "Jacob Thompson",
+        "typePost": "has joined your group Chess Club",
+        "titlePost": "",
+        "club": "Chess Club",
+        "imageClub":"",
+        "timePost": "1 day ago",
+        "messagePost": "",
+        "read": false
+    },
+    {
+        "profile": "./assets/images/avatar-rizky-hasanuddin.webp",
+        "username": "Rizky Hasanuddin",
+        "typePost": "sent you a private message",
+        "titlePost": "",
+        "club": "",
+        "imageClub":"",
+        "messagePost": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and  I'm already having lots of fun and improving my game.",
+        "timePost": "5 days ago",
+        "read": true
+    },
+    {
+        "profile": "./assets/images/avatar-kimberly-smith.webp",
+        "username": "Kimberly Smith",
+        "typePost": "commented on your picture",
+        "titlePost": "",
+        "club": "",
+        "imageClub":"./assets/images/image-chess.webp",
+        "messagePost": "",
+        "timePost": "1 week ago",
+        "read": true
+    },
+    {
+        "profile": "./assets/images/avatar-nathan-peterson.webp",
+        "username": "Nathan Peterson",
+        "typePost": "reacted to your recent post",
+        "titlePost": "5 end-game strategies to increase your win rate",
+        "club": "",
+        "imageClub":"",
+        "messagePost": "",
+        "timePost": "2 weeks ago",
+        "read": true
+    },
+    {
+        "profile": "./assets/images/avatar-anna-kim.webp",
+        "username": "Anna Kim",
+        "typePost": "left the group",
+        "titlePost": "",
+        "imageClub":"",
+        "club": "Chess Club",
+        "messagePost": "",
+        "timePost": "2 weeks ago",
+        "read": true
+    }
+]
